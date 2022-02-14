@@ -13,7 +13,7 @@ Los temas que se vieron son:
 * [Modulo 7 (Estructuras de Control: while, for)](https://github.com/DiegoGarciaH/Modulos_Katas/blob/main/M%C3%B3dulo7Katas.ipynb)
 * [Modulo 8 (Diccionarios y su Administracion)](https://github.com/DiegoGarciaH/Modulos_Katas/blob/main/M%C3%B3dulo8Katas.ipynb)
 * [Modulo 9 (Funciones para el Argumento)](https://github.com/DiegoGarciaH/Modulos_Katas/blob/main/M%C3%B3dulo9Katas.ipynb)
-* [Modulo 10 (Manejo de errrores (Por el momento no esta hecho))](#)
+* [Modulo 10 (Manejo de errrores)](https://github.com/DiegoGarciaH/Modulos_Katas/blob/main/Modulo10Katas/Modulo10Kata.ipynb)
 
 Solo queda agradecer a la Mission Comander *Fernanda Ochoa*
 
